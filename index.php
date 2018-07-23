@@ -1,6 +1,6 @@
 <?php
   $template_dir = get_bloginfo('template_directory');
-  $css_dir = "{$template_dir}/style.css"
+  $css_dir = "{$template_dir}/dist/index.css"
 ?>
 
 <!DOCTYPE html>
